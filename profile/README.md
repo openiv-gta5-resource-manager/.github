@@ -31,6 +31,7 @@ Run the `.exe` file to start the application.
 📊 **Logging & Reports** – Track file actions for organized workflows.
 
 ## 📷 Visual Overview
+![openiv-gta5-archive-browser](https://github.com/user-attachments/assets/532bf901-aede-4151-8753-cbcf22cfe80a)
 
 
 ## 🔍 SEO Keywords
